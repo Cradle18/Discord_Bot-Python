@@ -13,6 +13,7 @@ intents.voice_states = True
 
 bot = commands.Bot(command_prefix='$', intents=intents)
 
+#the below bot command was added during testing and i have left it as a bit of fun every know and then.
 @bot.command()
 async def test(ctx, a):
     if a == "Hello there":
