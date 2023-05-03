@@ -1,7 +1,7 @@
 # Discord Bot: Voice Chat Notifier
 
 ## Introduction
-The Voice Chat Notifier is a Discord bot developed by Tom Paul that allows users to subscribe to a messaging service. The bot automatically sends direct messages to subscribers when someone joins the voice chat on your Discord server. 
+The Voice Chat Notifier is a Discord bot developed by myself that allows users to subscribe to a messaging service. The bot automatically sends direct messages to subscribers when someone joins the voice chat on your Discord server. 
 This bot is intended for local use on my personal server, i have uploaded it to github as a project for pontential recruiters to see.
 
 ## Functionality
@@ -17,4 +17,4 @@ The Voice Chat Notifier bot offers the following features:
    It is not intended for use on public or large-scale servers.
 
 ## Conclusion
-The Voice Chat Notifier bot developed by Tom, offers a convenient subscription-based messaging service for voice chat notifications on your personal Discord server. It keeps your friends and server members informed about who is currently active in the voice channels. By sharing your bot's code on GitHub, you demonstrate your development skills to recruiters while respecting privacy and security concerns.
+The Voice Chat Notifier bot developed by me, offers a convenient subscription-based messaging service for voice chat notifications on your personal Discord server. It keeps your friends and server members informed about who is currently active in the voice channels. By sharing your bot's code on GitHub, you demonstrate your development skills to recruiters while respecting privacy and security concerns.
